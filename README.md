@@ -1,2 +1,1 @@
-# MELIPOO
-Exercicio MELI POO
+Herança , Polimorfismo , Abstrato
